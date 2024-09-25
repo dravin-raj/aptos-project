@@ -1,5 +1,9 @@
 # LoyaltyPoints Smart Contract
 
+
+![WhatsApp Image 2024-09-25 at 15 16 03_98f3d5bc](https://github.com/user-attachments/assets/c41d7260-f226-4728-8e5a-206b88a506a7)
+ID: 0x8ee494fda18b1392fda4e33864544c869e74e86eb720f35f741a5501f9dc678e
+
 ## Vision
 
 The **LoyaltyPoints** smart contract facilitates the management of customer loyalty programs on the Aptos blockchain. It allows businesses to issue loyalty points to customers and provides a mechanism for customers to redeem these points for tokens. This contract aims to enhance customer engagement and incentivize repeat business through a transparent and decentralized loyalty points system.
